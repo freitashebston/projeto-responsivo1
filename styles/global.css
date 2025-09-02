@@ -51,7 +51,7 @@ main{
         background-color: #fff;
         padding: 30px;
 
-        .text[
+        .text
             
         h1 {
             font-size: 22px;
@@ -70,6 +70,6 @@ main{
                 border-bottom: solid .25px var(--cor-cinza-padrao);
             }
         }
-    }
+    
     }
 }
